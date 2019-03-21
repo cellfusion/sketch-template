@@ -1,0 +1,27 @@
+{
+  "name": "@cellfusion/sketch-template",
+  "version": "0.0.1",
+  "description": "sketch boilerplate",
+  "bin": "sketch-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cellfusion/sketch-template.git"
+  },
+  "keywords": [
+    "js",
+    "bilerplate"
+  ],
+  "author": "cellfusion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cellfusion/sketch-template/issues"
+  },
+  "homepage": "https://github.com/cellfusion/sketch-template#readme",
+  "dependencies": {
+    "cac": "^6.4.2",
+    "cross-spawn": "^6.0.5"
+  }
+}
