@@ -5,15 +5,17 @@ create a sketch boilerplate
 Usage
 
 ```
-npx @cellfusion/sketch-template create <projectName> <library>
+npx @cellfusion/sketch-template create <projectName> <LibraryType>
 cd <projectName>
 yarn start
 ```
 
-Libraries
+LibraryType
 
-* Pixi.js
-* Three.js
+|Library|LibraryType|
+|---|---|
+|Pixi.js|pixi|
+|Three.js|three|
 
 Option
 
